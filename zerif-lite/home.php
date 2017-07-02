@@ -63,7 +63,7 @@ get_header();
 
 		</div><!-- .content-left-wrap -->
 
-		<?php zerif_sidebar_trigger(); ?>
+		<?php /* zerif_sidebar_trigger(); */ ?>
 
 	</div><!-- .container -->
 
