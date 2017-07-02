@@ -192,7 +192,7 @@
 					echo '<p id="zerif-copyright" class="zerif_hidden_if_not_customizer"></p>';
 				}
 
-				echo '<div class="zerif-copyright-box"><a class="zerif-copyright" rel="nofollow">Zerif Lite </a>' . __( 'developed by', 'zerif-lite' ) . ' ' . '<a class="zerif-copyright" href="' . esc_url( 'https://themeisle.com' ) . '" ' . $attribut_new_tab . ' rel="nofollow"> ' . __( 'ThemeIsle', 'zerif-lite' ) . '</a></div>';
+				echo '<div class="zerif-copyright-box"><a class="zerif-copyright" rel="nofollow"> Copyright &copy 2017 SOOMCORPORATION. All rights reserved. </a></div>';
 
 				echo '</div>';
 
