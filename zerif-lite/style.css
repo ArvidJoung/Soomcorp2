@@ -880,7 +880,7 @@ a:active {
  **   9.0 Widgets                   -----
 -----------------------------------------*/
 .sidebar-wrap {
-	border-left: 1px solid rgba(0, 0, 0, 0.05); /*sidebar menu 왼쪽 line */
+	/* border-left: 1px solid rgba(0, 0, 0, 0.05); */ /*sidebar menu 왼쪽 line */
 }
 .widget {
 	/*margin: 0 0 1.5em;
