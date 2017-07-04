@@ -3248,7 +3248,8 @@ article.hentry{
 	width: 100%;
 	margin-bottom: 30px;
 	padding-bottom: 30px;
-	/* border-bottom: 1px solid rgba(0, 0, 0, 0.05); */ /*page contents 하단의 라인 제거 */
+	/* border-bottom: 1px solid rgba(0, 0, 0, 0.05); */ /* Arvid : page contents 하단의 라인 제거 */
+	border-right: 1px solid rgba(0, 0, 0, 0.05); /* Arvid 7/4: main contents 우측에 border 추가 */
 }
 article.sticky{
 	background: #f9f9f9;
