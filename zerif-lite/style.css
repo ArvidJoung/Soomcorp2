@@ -4710,7 +4710,9 @@ article .posted-on a:hover{
 	.large-container {
 		width: 100%;
 	}
-
+	article.hentry{
+		border-right: none; /* Arvid 7/4: main contents 우측에 border 제거 */
+	}
 }
 @media (max-width: 767px) {
 /* main menu가 dropdownmenu로 변경되는 구간 */	
