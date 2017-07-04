@@ -4746,6 +4746,10 @@ article .posted-on a:hover{
 	.menu-align-center .responsive-logo > a {
 		float: left;
 	}
+	.navbar-brand {				/* Arvid 7/4 : logo 영역 축소 */
+		width: 80%;
+		padding: 7px 0px 7px 0px;
+	}	
 }
 @media (max-width: 600px) {
 
