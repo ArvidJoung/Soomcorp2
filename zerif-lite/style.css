@@ -4699,7 +4699,7 @@ article .posted-on a:hover{
 }
 
 @media (max-width: 992px) {
-
+/* sidebar가 main contents 하단으로 내려가는 구간 */	
 	.woocommerce-page .woocommerce .cart-collaterals .cart_totals {
 		width: 100%;
 	}
@@ -4712,6 +4712,7 @@ article .posted-on a:hover{
 
 }
 @media (max-width: 767px) {
+/* main menu가 dropdownmenu로 변경되는 구간 */	
 	.woocommerce-page .upsells.products ul li.product,
 	.woocommerce-page .upsells.products ul.products li.product{
 		width: 48%;
